@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"about"},[n._v("\n  攻略中心\n")])},s=[],u=e("2877"),l={},c=Object(u["a"])(l,a,s,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=about.b5311f92.js.map
